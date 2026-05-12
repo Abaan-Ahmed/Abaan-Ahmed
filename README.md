@@ -57,13 +57,4 @@ I build full-stack, AI-native systems end-to-end — from Solidity escrow contra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abaan-Ahmed&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaan-Ahmed&layout=compact&theme=catppuccin_mocha&hide_border=true" />
-</p>
-
----
-
 📍 Dubai, UAE &nbsp;·&nbsp; [linkedin.com/in/abaan-ahmed](https://linkedin.com/in/abaan-ahmed) &nbsp;·&nbsp; mr.abaanahmed@gmail.com
