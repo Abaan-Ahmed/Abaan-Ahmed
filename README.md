@@ -1,7 +1,7 @@
 # Abaan Ahmed
 
 **Computer Engineering graduate · American University in Dubai · May 2026**  
-Sheikh Mohammed Bin Rashid Scholar · IEEE VP · Dubai, UAE
+Sheikh Mohammed Bin Rashid Scholarship · IEEE VP · Dubai, UAE
 
 I build full-stack, AI-native systems end-to-end — from Solidity escrow contracts and ESP32 firmware to locally-deployed RAG pipelines. I use Claude Code as a primary development interface and ship production systems, not prototypes.
 
